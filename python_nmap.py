@@ -2,7 +2,7 @@ import nmap
 
 nm = nmap.PortScanner()
 
-#Target is the ip target we want to find ports on.
+#Target is the ip target we want to find ports on. This is the nmap website ip.
 target = "45.33.32.156"
 
 # Options are basically how we want to use nmap
